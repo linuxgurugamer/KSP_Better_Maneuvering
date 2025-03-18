@@ -36,7 +36,7 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved
-3:LICENSEd,GameData/ManeuverNodeEvolved
+3:LICENSE,GameData/ManeuverNodeEvolved
 3:README.md,GameData/ManeuverNodeEvolved
 
 # 4:SOURCDIR, DESTDIR

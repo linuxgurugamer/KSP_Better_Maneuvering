@@ -1,4 +1,5 @@
 Changelog
 
+1.0.5
 	Reorganized for build process
 	Added .gitignore
