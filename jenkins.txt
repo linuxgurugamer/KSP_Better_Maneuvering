@@ -31,8 +31,8 @@
 1:ManeuverNodeEvolved, ManeuverNodeEvolved.version
 
 # 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
-2:BetterManeuvering.Unity,Source/BetterManeuvering.Unity.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
-2:BetterManeuvering,Source/BetterManeuvering.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
+2:BetterManeuvering.Unity,Source/BetterManeuvering.Unity/BetterManeuvering.Unity.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
+2:BetterManeuvering,Source/BetterManeuvering/BetterManeuvering.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved
