@@ -31,13 +31,13 @@
 1:ManeuverNodeEvolved, ManeuverNodeEvolved.version
 
 # 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
-2:BetterManeuvering,Source/BetterManeuvering.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
 2:BetterManeuvering.Unity,Source/BetterManeuvering.Unity.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
+2:BetterManeuvering,Source/BetterManeuvering.csproj,ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:ManeuverNodeEvolved.version,GameData/ManeuverNodeEvolved
-#3:LICENSE.md,GameData/ManeuverNodeEvolved
-#3:README.md,GameData/ManeuverNodeEvolved
+3:LICENSEd,GameData/ManeuverNodeEvolved
+3:README.md,GameData/ManeuverNodeEvolved
 
 # 4:SOURCDIR, DESTDIR
 #4:Textures,GameData/ManeuverQueue/Textures
