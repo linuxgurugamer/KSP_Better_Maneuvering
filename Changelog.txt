@@ -1,0 +1,4 @@
+Changelog
+
+	Reorganized for build process
+	Added .gitignore

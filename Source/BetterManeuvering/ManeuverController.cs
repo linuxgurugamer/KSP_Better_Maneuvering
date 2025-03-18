@@ -110,7 +110,7 @@ namespace BetterManeuvering
 				shortcut = ManeuverPersistence.Instance.keyboardShortcut;
 
 		}
-
+		
 		private void Start()
 		{
 			settings = HighLogic.CurrentGame.Parameters.CustomParams<ManeuverGameParams>();
